@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Compass"
+  short_description: "实证论文写作与实验全流程教练"
+  default_prompt: "Use $paper-compass to guide me through an empirical academic paper from literature review and experiments to writing and formatting."
+
+policy:
+  allow_implicit_invocation: true
